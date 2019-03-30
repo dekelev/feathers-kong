@@ -59,7 +59,6 @@
     "@feathersjs/socketio": "^3.2.9",
     "body-parser": "^1.18.3",
     "chai": "^4.2.0",
-    "istanbul": "0.4.5",
     "mocha": "^6.0.2",
     "semistandard": "^13.0.1"
   }
