@@ -1,7 +1,7 @@
 {
   "name": "feathers-kong",
   "description": "A Feathers service for Kong API Gateway admin API",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "homepage": "https://github.com/dekelev/feathers-kong",
   "keywords": [
     "feathers",
@@ -25,7 +25,7 @@
     "url": "https://github.com/dekelev/feathers-kong/issues"
   },
   "engines": {
-    "node": ">= 6"
+    "node": ">= 8"
   },
   "main": "lib/",
   "files": [
@@ -37,7 +37,7 @@
     "release:minor": "npm version minor && npm publish",
     "release:major": "npm version major && npm publish",
     "lint": "semistandard --fix src/**/*.js test/**/*.js --config",
-    "mocha": "nyc mocha --opts mocha.opts",
+    "mocha": "nyc mocha",
     "coverage": "nyc report --reporter=text-lcov | coveralls",
     "test": "npm run lint && npm run mocha",
     "example": "node example/app"
@@ -51,19 +51,19 @@
     "lib": "lib"
   },
   "dependencies": {
-    "@feathersjs/errors": "^3.3.6",
-    "node-fetch": "^2.3.0"
+    "@feathersjs/errors": "^4.5.3",
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {
-    "@feathersjs/express": "^1.3.1",
-    "@feathersjs/feathers": "^3.3.1",
-    "@feathersjs/socketio": "^3.2.9",
-    "body-parser": "^1.18.3",
+    "@feathersjs/express": "^4.5.3",
+    "@feathersjs/feathers": "^4.5.3",
+    "@feathersjs/socketio": "^4.5.3",
+    "body-parser": "^1.19.0",
     "chai": "^4.2.0",
-    "coveralls": "^3.0.3",
-    "mocha": "^6.0.2",
-    "nyc": "^13.3.0",
-    "semistandard": "^13.0.1"
+    "coveralls": "^3.0.14",
+    "mocha": "^7.1.1",
+    "nyc": "^15.0.1",
+    "semistandard": "^14.2.0"
   },
   "nyc": {
     "exclude": [
