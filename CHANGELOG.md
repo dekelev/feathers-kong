@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/dekelev/feathers-kong/tree/HEAD)
+## [v1.0.1](https://github.com/dekelev/feathers-kong/tree/v1.0.1) (2020-11-12)
 
-[Full Changelog](https://github.com/dekelev/feathers-kong/compare/v1.0.0...HEAD)
+[Full Changelog](https://github.com/dekelev/feathers-kong/compare/v1.0.0...v1.0.1)
 
 **Merged pull requests:**
 
