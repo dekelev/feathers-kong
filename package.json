@@ -25,7 +25,7 @@
     "url": "https://github.com/dekelev/feathers-kong/issues"
   },
   "engines": {
-    "node": ">= 8"
+    "node": ">= 10"
   },
   "main": "lib/",
   "files": [
