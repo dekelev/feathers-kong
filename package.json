@@ -36,7 +36,7 @@
     "release:patch": "npm version patch && npm publish",
     "release:minor": "npm version minor && npm publish",
     "release:major": "npm version major && npm publish",
-    "lint": "semistandard --fix src/**/*.js test/**/*.js --config",
+    "lint": "semistandard --fix lib/**/*.js test/**/*.js --config",
     "mocha": "nyc mocha",
     "coverage": "nyc report --reporter=text-lcov | coveralls",
     "test": "npm run lint && npm run mocha",
@@ -51,19 +51,19 @@
     "lib": "lib"
   },
   "dependencies": {
-    "@feathersjs/errors": "^4.5.3",
-    "node-fetch": "^2.6.0"
+    "@feathersjs/errors": "^4.5.10",
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
-    "@feathersjs/express": "^4.5.3",
-    "@feathersjs/feathers": "^4.5.3",
-    "@feathersjs/socketio": "^4.5.3",
+    "@feathersjs/express": "^4.5.10",
+    "@feathersjs/feathers": "^4.5.10",
+    "@feathersjs/socketio": "^4.5.10",
     "body-parser": "^1.19.0",
     "chai": "^4.2.0",
-    "coveralls": "^3.0.14",
-    "mocha": "^7.1.1",
-    "nyc": "^15.0.1",
-    "semistandard": "^14.2.0"
+    "coveralls": "^3.1.0",
+    "mocha": "^8.2.1",
+    "nyc": "^15.1.0",
+    "semistandard": "^16.0.0"
   },
   "nyc": {
     "exclude": [
