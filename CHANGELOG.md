@@ -1,5 +1,14 @@
 # Changelog
 
+## [v1.0.2](https://github.com/dekelev/feathers-kong/tree/v1.0.2) (2021-03-30)
+
+[Full Changelog](https://github.com/dekelev/feathers-kong/compare/v1.0.1...v1.0.2)
+
+**Merged pull requests:**
+
+- Bump y18n from 4.0.0 to 4.0.1 [\#4](https://github.com/dekelev/feathers-kong/pull/4) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump socket.io from 2.3.0 to 2.4.1 [\#3](https://github.com/dekelev/feathers-kong/pull/3) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.0.1](https://github.com/dekelev/feathers-kong/tree/v1.0.1) (2020-11-12)
 
 [Full Changelog](https://github.com/dekelev/feathers-kong/compare/v1.0.0...v1.0.1)
