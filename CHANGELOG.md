@@ -1,14 +1,16 @@
 # Changelog
 
-[Full Changelog](https://github.com/dekelev/feathers-kong/compare/v1.0.3...HEAD)
+## [v1.0.4](https://github.com/dekelev/feathers-kong/tree/v1.0.4) (2022-01-15)
 
-**Merged pull requests:**
-
-- Bump lodash from 4.17.20 to 4.17.21 [\#5](https://github.com/dekelev/feathers-kong/pull/5) ([dependabot[bot]](https://github.com/apps/dependabot))
+[Full Changelog](https://github.com/dekelev/feathers-kong/compare/v1.0.3...v1.0.4)
 
 ## [v1.0.3](https://github.com/dekelev/feathers-kong/tree/v1.0.3) (2021-05-08)
 
 [Full Changelog](https://github.com/dekelev/feathers-kong/compare/v1.0.2...v1.0.3)
+
+**Merged pull requests:**
+
+- Bump lodash from 4.17.20 to 4.17.21 [\#5](https://github.com/dekelev/feathers-kong/pull/5) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.0.2](https://github.com/dekelev/feathers-kong/tree/v1.0.2) (2021-03-30)
 
