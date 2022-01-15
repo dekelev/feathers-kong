@@ -52,19 +52,19 @@
     "lib": "lib"
   },
   "dependencies": {
-    "@feathersjs/errors": "^4.5.11",
-    "node-fetch": "^2.6.1"
+    "@feathersjs/errors": "^4.5.12",
+    "node-fetch": "^2.6.6"
   },
   "devDependencies": {
-    "@feathersjs/express": "^4.5.11",
-    "@feathersjs/feathers": "^4.5.11",
-    "@feathersjs/socketio": "^4.5.11",
-    "body-parser": "^1.19.0",
+    "@feathersjs/express": "^4.5.12",
+    "@feathersjs/feathers": "^4.5.12",
+    "@feathersjs/socketio": "^4.5.13",
+    "body-parser": "^1.19.1",
     "chai": "^4.3.4",
-    "coveralls": "^3.1.0",
-    "mocha": "^8.4.0",
+    "coveralls": "^3.1.1",
+    "mocha": "^9.1.4",
     "nyc": "^15.1.0",
-    "semistandard": "^16.0.0"
+    "semistandard": "^16.0.1"
   },
   "nyc": {
     "exclude": [
