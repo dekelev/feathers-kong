@@ -1,5 +1,9 @@
 # Changelog
 
+## [v1.0.5](https://github.com/dekelev/feathers-kong/tree/v1.0.5) (2023-03-04)
+
+[Full Changelog](https://github.com/dekelev/feathers-kong/compare/v1.0.4...v1.0.5)
+
 ## [v1.0.4](https://github.com/dekelev/feathers-kong/tree/v1.0.4) (2022-01-15)
 
 [Full Changelog](https://github.com/dekelev/feathers-kong/compare/v1.0.3...v1.0.4)
